@@ -1,4 +1,4 @@
-# MK38C-Lab-Co.
+# MK38C Lab Co.
 MK38C Lab Co:
 A collaboration for creating cool projects!
 ___________________________________________
