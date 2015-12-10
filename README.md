@@ -17,4 +17,5 @@ then you **must** give credit to us.
 If you:
 - Use code for help, but don't copy the special text
 then you don't have to give credit.
+
 *- Special text refers to text we put that is displayed during runtime.
