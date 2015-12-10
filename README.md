@@ -2,7 +2,7 @@
 MK38C Lab Co:
 A collaboration for creating cool projects!
 ___________________________________________
-PLEASE NOTE:
+PLEASE NOTE:\n
 This is not meant for commerical uses. Anything here is simply a test. Use code here as you may (see below for more info).
 ___________________________________________
 USAGE OF CODE:
