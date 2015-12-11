@@ -3,11 +3,11 @@
 #include <thread>
 using namespace std;
 int main(){
-int bombtimer=10;
 cout << "BOMB COUNTDOWN" << endl;
-for (bombtimer>10,--bombtimer) {
+for (int bombtimer=10; bombtimer>-1; --bombtimer) {
 cout << bombtimer << endl;
-this_thread::sleep_for(chrono::seconds(1));}
+this_thread::sleep_for(chrono::seconds(1));
+}
 cout << "BOOM" << endl;
-)return 0;
+return 0;
 }
