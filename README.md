@@ -12,10 +12,12 @@ If you:
 - Copy the code and copy special text*
 - Make improvements on code while copying all of the code
 - Publish this code alone
+
 then you **must** give credit to us.
 
 If you:
 - Use code for help, but don't copy the special text
+
 then you don't have to give credit.
 
 *- Special text refers to text we put that is displayed during runtime.
